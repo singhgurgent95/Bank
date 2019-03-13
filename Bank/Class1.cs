@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bank
+namespace BankAccountNS
 {
-    public class Class1
+    /// <summary>
+    /// Bank Account demo class.
+    /// </summary>
+    public class BankAccount
     {
+
     }
 }
